@@ -35,3 +35,4 @@ Si deseas regenerar el archivo HTML desde el archivo RMarkdown, sigue estos paso
 ## Contacto
 
 Para cualquier pregunta o comentario, por favor contacta a [tu-email@example.com](mailto:tu-email@example.com).
+
